@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1652884929 source:f:\cbproject\crossimageencryption\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Chaos.h"
+	"ReadBatchImages.h"
+	"CrossImagePermutation.h"
+	"CrossImageDiffusion.h"
+
+1641893637 f:\cbproject\crossimageencryption\readbatchimages.h
+	<stdio.h>
+	<sys/types.h>
+	<stddef.h>
+	<dirent.h>
+	<windows.h>
+
+1652799228 source:f:\cbproject\crossimageencryption\readbatchimages.c
+	"ReadBatchImages.h"
+
+1642039419 source:f:\cbproject\crossimageencryption\chaos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Chaos.h"
+
+1642042713 f:\cbproject\crossimageencryption\chaos.h
+
+1649338400 source:f:\cbproject\crossimageencryption\crossimagepermutation.c
+	"CrossImagePermutation.h"
+
+1642858882 f:\cbproject\crossimageencryption\crossimagepermutation.h
+	<math.h>
+	"Chaos.h"
+	"ReadBatchImages.h"
+
+1643024814 source:f:\cbproject\crossimageencryption\crossimagediffusion.c
+	"CrossImageDiffusion.h"
+	"Chaos.h"
+
+1643023097 f:\cbproject\crossimageencryption\crossimagediffusion.h
+	"ReadBatchImages.h"
+
+1642039419 source:e:\cbproject\crossimageencryption\chaos.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"Chaos.h"
+
+1642042713 e:\cbproject\crossimageencryption\chaos.h
+
+1643024814 source:e:\cbproject\crossimageencryption\crossimagediffusion.c
+	"CrossImageDiffusion.h"
+	"Chaos.h"
+
+1643023097 e:\cbproject\crossimageencryption\crossimagediffusion.h
+	"ReadBatchImages.h"
+
+1641893637 e:\cbproject\crossimageencryption\readbatchimages.h
+	<stdio.h>
+	<sys/types.h>
+	<stddef.h>
+	<dirent.h>
+	<windows.h>
+
+1642084367 source:e:\cbproject\crossimageencryption\crossimagepermutation.c
+	"CrossImagePermutation.h"
+
+1642858882 e:\cbproject\crossimageencryption\crossimagepermutation.h
+	<math.h>
+	"Chaos.h"
+	"ReadBatchImages.h"
+
+1642997517 source:e:\cbproject\crossimageencryption\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Chaos.h"
+	"ReadBatchImages.h"
+	"CrossImagePermutation.h"
+	"CrossImageDiffusion.h"
+
+1641973629 source:e:\cbproject\crossimageencryption\readbatchimages.c
+	"ReadBatchImages.h"
+
